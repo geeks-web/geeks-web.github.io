@@ -1663,7 +1663,9 @@ font-weight: 500;
    
 }
 #myCarousel .carousel-indicators li { margin-bottom: 40px;}
-.banner-main .carousel-item img {width: 100%;}
+/* .banner-main .carousel-item img {width: 100%;} */
+.banner-main .carousel-item video {width: 100%;}
+
 #myCarousel a.carousel-control-prev {display: none;}
 #myCarousel a.carousel-control-next {display: none;}
 .carousel-indicators .active {
