@@ -1600,7 +1600,8 @@ width: 100%;
 
 .location_icon_bottum_tt ul li {
      display: inline-block;
-padding: 27px 60px;
+/* padding: 27px 60px; */
+padding: 27px 30px;
 /* color: #fff; */
 color: black;
 font-size: 15px;
@@ -1663,7 +1664,7 @@ font-weight: 500;
    
 }
 #myCarousel .carousel-indicators li { margin-bottom: 40px;}
-/* .banner-main .carousel-item img {width: 100%;} */
+.banner-main .carousel-item img {width: 100%;}
 .banner-main .carousel-item video {width: 100%;}
 
 #myCarousel a.carousel-control-prev {display: none;}
@@ -1879,7 +1880,7 @@ border-radius: 18px;
      font-size:51px; 
      line-height: 51px; 
      /* color: #4bc714; */
-     color: #990000; 
+     color: white; 
      display: block;
      padding: 20px 0px;
 }
